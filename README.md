@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on *Real-world Projects*  
 - 🌱 I’m currently learning *Machine Learning & AI*  
 - 💬 Ask me about *Full-Stack Development & AI-based Web Applications*  
-- 📫 How to reach me: *akshat.agarwal9292@gmail.com*  
+- 📫 How to reach me: *satyam87yadav@gmail.com*  
 - ⚡ Fun fact: *I love solving DSA problems and building innovative projects!*  
 
 ---
