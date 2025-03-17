@@ -9,7 +9,7 @@
 
 ## 🔥 About Me  
 - 🔭 I’m currently working on *Real-world Projects*  
-- 🌱 I’m currently learning *Machine Learning & AI*  
+- 🌱 I’m currently learning *MEARN Stack & AI*  
 - 💬 Ask me about *Full-Stack Development & AI-based Web Applications*  
 - 📫 How to reach me: *satyam87yadav@gmail.com*  
 - ⚡ Fun fact: *I love solving DSA problems and building innovative projects!*  
@@ -42,7 +42,7 @@
 ### 💻 Frontend  
 | HTML | CSS | JavaScript | React | Redux | Next.js | Tailwind CSS | Bootstrap |  
 |------|-----|-----------|--------|--------|--------|-------------|-----------|  
-| ✅   | ✅  | ✅        | ✅     | ✅     | ✅     | ✅         | ✅        |  
+| ✅   | ✅  | ✅      |  ✅    |        |        |   ✅       | ✅        |  
 
 ### ⚙ Backend  
 | Node.js | Express.js | REST APIs |  
@@ -52,17 +52,17 @@
 ### 🛢 Database & Cloud  
 | MongoDB | MySQL  | AWS | Docker |  
 |---------|-----------|------|---------|-----|--------|  
-| ✅      | ✅        | ✅   | ✅      | ✅  | ✅      |  
+| ✅      | ✅        |     |         |     |        |  
 
 ### 🤖 Machine Learning & AI  
 | Python  | PyTorch | NLP  | Hugging Face | Scikit-learn |  
 |--------|-----------|---------|----|--------|-------------|--------------|  
-| ✅     | ✅        | ✅      | ✅  | ✅      | ✅         | ✅           |  
+| ✅     | ✅       |         |    |        |             |            |  
 
 ### 🛠 DevOps & Tools  
 | Git | GitHub | GitLab | CI/CD | Docker | VS Code |  
 |-----|--------|--------|------|--------|------------|---------|  
-| ✅   | ✅     | ✅     | ✅   | ✅     | ✅         | ✅       |  
+| ✅   | ✅     | ✅  |       |        | ✅        | ✅       |  
 
 ---
 
