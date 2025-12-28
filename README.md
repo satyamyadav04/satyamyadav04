@@ -18,7 +18,7 @@
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/akshat-agarwal-55946a27a" target="blank">
+  <a href="https://www.linkedin.com/in/satyam-yadav-738773290/">
     <img align="center" src="www.linkedin.com/in/satyam-yadav-738773290" alt="LinkedIn" height="30" width="40" />
   </a>
 <!--   <a href="https://fb.com/akshat.agarwal" target="blank">
@@ -27,7 +27,7 @@
 <!--   <a href="https://instagram.com/akshatagarwal98" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a> -->
-  <a href="https://www.hackerrank.com/csai__1520018" target="blank">
+  <a href="https://www.hackerrank.com/profile/23071002521_Saty">
     <img align="center" src="https://www.hackerrank.com/profile/saty23071002521" alt="HackerRank" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/satyam_217/" target="blank">
