@@ -1,79 +1,67 @@
 <h1 align="center">Hi 👋, I'm Satyam Yadav</h1>
-<h3 align="center">🚀 A Passionate Full-Stack Developer & AI Enthusiast from India</h3>
+<h3 align="center">🚀 Final Year B.C.A Student | Full-Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=terror-satyam yadav&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=satyamyadav04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+👨‍💻 About Me
+🎓 Final Year B.C.A Student with a strong interest in Full-Stack Development and Artificial Intelligence.
+I enjoy building real-world, scalable applications and solving DSA problems to strengthen my problem-solving skills.
 
----
+🔭 Currently working on real-world full-stack & AI projects
 
-## 🔥 About Me  
-- 🔭 I’m currently working on *Real-world Projects*  
-- 🌱 I’m currently learning *MEARN Stack & AI*  
-- 💬 Ask me about *Full-Stack Development & AI-based Web Applications*  
-- 📫 How to reach me: *satyam87yadav@gmail.com*  
-- ⚡ Fun fact: *I love solving DSA problems and building innovative projects!*  
+🌱 Learning MERN Stack, AI & System Design
 
----
+💬 Ask me about Web Development, DSA, APIs & AI-based apps
 
-## 🌐 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/satyam-yadav-738773290/">
-    <img align="center" src="www.linkedin.com/in/satyam-yadav-738773290" alt="LinkedIn" height="30" width="40" />
-  </a>
-<!--   <a href="https://fb.com/akshat.agarwal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a> -->
-<!--   <a href="https://instagram.com/akshatagarwal98" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a> -->
-  <a href="https://www.hackerrank.com/profile/23071002521_Saty">
-    <img align="center" src="https://www.hackerrank.com/profile/saty23071002521" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/satyam_217/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+📫 Reach me at satyam87yadav@gmail.com
 
----
+⚡ Fun fact: I love converting ideas into working products
 
-## 🛠 Technologies & Tools  
+🌐 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/satyam-yadav-738773290/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" height="30" width="40" /> </a> <a href="https://leetcode.com/u/satyam_217/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /> </a> <a href="https://www.hackerrank.com/profile/23071002521_Saty" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /> </a> </p>
+🛠️ Technologies & Tools
+💻 Frontend
+HTML  | CSS	 | JavaScript	 | React	 |  Redux	  |  Tailwind	  |  Bootstrap |
+✅	  | ✅   |	 ✅	       |  ✅     |	⏳	    |    ✅	      |     ✅     |
 
-### 💻 Frontend  
-| HTML | CSS | JavaScript | React | Redux | Next.js | Tailwind CSS | Bootstrap |  
-|------|-----|-----------|--------|--------|--------|-------------|-----------|  
-| ✅   | ✅  | ✅      |  ✅    |        |        |   ✅       | ✅        |  
+⚙️ Backend
+Node.js |	Express.js  |	REST APIs  |
+  ✅	  |    ✅	      |    ✅     |
 
-### ⚙ Backend  
-| Node.js | Express.js | REST APIs |  
-|---------|-----------|--------|-------|--------|---------|--------|  
-| ✅      | ✅        | ✅     | ✅    | ✅     | ✅      | ✅      |  
+🛢️ Database & Cloud
+MongoDB| MySQL	|   AWS	 |  Docker |
+  ✅  |  ✅	  |   ⏳	 |   ⏳   |
 
-### 🛢 Database & Cloud  
-| MongoDB | MySQL  | AWS | Docker |  
-|---------|-----------|------|---------|-----|--------|  
-| ✅      | ✅        |     |         |     |        |  
+🤖 Machine Learning & AI
+Python	| PyTorch |	NLP |	Hugging Face	| Scikit-learn |
+  ✅    | 	✅    |	⏳	|    ⏳         |	⏳           |
 
-### 🤖 Machine Learning & AI  
-| Python  | PyTorch | NLP  | Hugging Face | Scikit-learn |  
-|--------|-----------|---------|----|--------|-------------|--------------|  
-| ✅     | ✅       |         |    |        |             |            |  
+🔧 DevOps & Tools
+Git	| GitHub  |	GitLab  |	CI/CD  |	VS Code  |
+✅	|   ✅   |  	✅	  |   ⏳   |	  ✅     |
 
-### 🛠 DevOps & Tools  
-| Git | GitHub | GitLab | CI/CD | Docker | VS Code |  
-|-----|--------|--------|------|--------|------------|---------|  
-| ✅   | ✅     | ✅  |       |        | ✅        | ✅       |  
+📌 Projects & Experience
+🔹 AI-powered Web Applications
 
----
+🔹 Full-Stack MERN Projects
 
+🔹 Speech-to-Text & Automation Systems
 
----
+🔹 DSA-based Problem Solving Projects
 
-## 🚀 Fun Facts  
-💡 Love building AI-powered web applications & solving *LeetCode* problems!  
-⚡ Always exploring new *tech stacks* & *open-source contributions*.  
-🎯 *Goal:* Become an AI-driven Full-Stack Developer.  
+👉 All projects focus on real-world use cases and clean architecture.
 
----
+🎯 Career Goal
+🚀 To become a skilled AI-driven Full-Stack Developer, building scalable systems that solve real-world problems and contribute to open source.
 
-✨ Let's connect and collaborate! 🚀
+✨ Fun Facts
+💡 Love building AI-powered web apps
+
+🧠 Regularly practice LeetCode & DSA
+
+🌱 Always learning new tech stacks & tools
+
+🤝 Let’s Collaborate
+Open to internships, full-time roles, and collaborative projects.
+⭐ Feel free to explore my repositories and connect!
